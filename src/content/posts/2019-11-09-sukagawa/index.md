@@ -3,7 +3,7 @@ title: Sukagawa Taimatsu Akashi | 須賀川松明あかし
 published: 2019-11-09
 description: "Add description"
 image: "./tree.jpg"
-tags: ["japan 2019", "very bad pictures", "everything is burning", "peaceful festival"]
+tags: ["Sakugawa"]
 category: Japan 2019
 draft: false
 ---

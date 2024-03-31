@@ -3,7 +3,7 @@ title: Gyokusen'inmaru Beleuchtung | Gyokusen'inmaru Garden Light-Up| 玉泉院�
 published: 2019-11-10
 description: "Add description"
 image: "./castle.jpg"
-tags: ["japan 2019", "bad pictures", "beautiful scenery", "not that late!"]
+tags: ["Kanazawa"]
 category: Japan 2019
 draft: false
 ---

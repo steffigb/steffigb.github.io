@@ -3,7 +3,7 @@ title: Ōsaka | 大阪
 published: 2019-11-12
 description: "Add description"
 image: "./welcome.jpg"
-tags: ["japan 2019", "very colourful", "many bikes", "completely strange"]
+tags: ["Ōsaka"]
 category: Japan 2019
 draft: false
 ---

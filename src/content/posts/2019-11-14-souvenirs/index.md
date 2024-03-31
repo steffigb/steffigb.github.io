@@ -3,7 +3,7 @@ title: Souvenir-Tag in Higa­shi-Cha­ya­gai | Souvenirs-day in Higa­shi-Cha­
 published: 2019-11-14
 description: "Add description"
 image: "./leaves.jpg"
-tags: ["japan 2019", "a welcoming garden", "japanese tea", "the matcha incident"]
+tags: ["Kanazawa"]
 category: Japan 2019
 draft: false
 ---

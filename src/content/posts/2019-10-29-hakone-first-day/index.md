@@ -3,7 +3,7 @@ title: Hakone | 箱根町
 published: 2019-10-29
 description: "Add description"
 image: "./trees.jpg"
-tags: ["japan 2019", "rainy but bautiful", "first foliage colour", "sleeping in a box"]
+tags: ["Hakone"]
 category: Japan 2019
 draft: false
 ---

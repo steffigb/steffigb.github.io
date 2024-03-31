@@ -3,7 +3,7 @@ title: Zurück nach Kamakura | Back to Kamakura | 鎌倉にもどる
 published: 2019-10-30
 description: "Add description"
 image: "./bambus.jpg"
-tags: ["japan 2019", "a touch of fuji-san", "reflection", "stopp in odawara"]
+tags: ["Kamakura"]
 category: Japan 2019
 draft: false
 ---

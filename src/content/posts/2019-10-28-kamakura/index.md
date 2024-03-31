@@ -3,7 +3,7 @@ title: Kamakura | 鎌倉市
 published: 2019-10-28
 description: "Add description"
 image: "./hashi.jpg"
-tags: ["japan 2019", "daibutsu", "hase-dera", "ocean"]
+tags: ["Kamakura"]
 category: Japan 2019
 draft: false
 ---

@@ -3,7 +3,7 @@ title: Nakasendō Magome - Tsumago| 中山道 馬籠 - 妻籠
 published: 2019-11-04
 description: "Add description"
 image: "./hostel.jpg"
-tags: ["japan 2019", "old post towns", "easy going", "dangerous wild animals"]
+tags: ["Nakasendō", "Nagiso"]
 category: Japan 2019
 draft: false
 ---

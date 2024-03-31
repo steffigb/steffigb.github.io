@@ -3,7 +3,7 @@ title: Samurai in Naga­ma­chi Bukeyashiki | 長町武家屋敷
 published: 2019-11-15
 description: "Add description"
 image: "./sho_kyoto.jpg"
-tags: ["japan 2019", "samurai gardens", "say goodbye :(", "riddle time"]
+tags: ["Kanazawa"]
 category: Japan 2019
 draft: false
 ---

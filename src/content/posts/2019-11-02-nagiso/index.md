@@ -3,7 +3,7 @@ title: Nagiso - In eine andere Welt abtauchen | Nagiso - Forget the ouside world
 published: 2019-11-02
 description: "Add description"
 image: "./bambus.jpg"
-tags: ["japan 2019", "train travel", "where am i", "cats are cute"]
+tags: ["Nagiso"]
 category: Japan 2019
 draft: false
 ---

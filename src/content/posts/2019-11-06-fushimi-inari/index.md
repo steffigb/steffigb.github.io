@@ -3,7 +3,7 @@ title: Fushimi Inari Insider | 伏見稲荷インサイダー
 published: 2019-11-06
 description: "Add description"
 image: "./waterside.jpg"
-tags: ["japan 2019", "don't lick the shrines", "not so grouded places", "so much knowledge"]
+tags: ["Kyōto"]
 category: Japan 2019
 draft: false
 ---

@@ -3,7 +3,7 @@ title: In die Massen eintauchen | Diving into the masses | 大衆へのダイビ
 published: 2019-11-05
 description: "Add description"
 image: "./kyoto.jpg"
-tags: ["japan 2019", "a hidden gem", "sooo many people", "english, german, japanese"]
+tags: ["Kyōto"]
 category: Japan 2019
 draft: false
 ---

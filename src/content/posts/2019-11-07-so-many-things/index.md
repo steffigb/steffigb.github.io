@@ -3,7 +3,7 @@ title: Tempel, Schreine und Gärten | Temples, shrines and gardens | お寺、�
 published: 2019-11-07
 description: "Add description"
 image: "./heian.jpg"
-tags: ["japan 2019", "overwhelmed", "exhausted", "maybe a bit lonely"]
+tags: ["Kyōto"]
 category: Japan 2019
 draft: false
 ---

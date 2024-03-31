@@ -3,7 +3,7 @@ title: Der Herbst ist da | Autumn has arrived | 秋が来ました
 published: 2019-11-03
 description: "Add description"
 image: "./cover.jpg"
-tags: ["japan 2019", "autumn colours", "a wooden bridge", "not much to say"]
+tags: ["Nagiso"]
 category: Japan 2019
 draft: false
 ---
