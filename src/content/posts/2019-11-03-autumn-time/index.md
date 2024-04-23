@@ -8,11 +8,13 @@ category: Japan 2019
 draft: false
 ---
 
-Es gibt nicht viel zu sagen, einfach schauen ;).  
-Heute habe ich mir Nagiso angeschaut, eines der schönesten Dörfer Japans (es hat tatsächlich diesen Titel). Die Holzbrücke hier ist mit knapp 250m die längste Japans. Ansonsten ist der Herbst auch endlich angekommen ;). Es ist wunderschön zu beobachten, wie sich die Blätter jeden Tag etwas mehr verfärben.
+Es gibt nicht viel zu sagen, einfach schauen 😍.  
+Heute habe ich mir Nagiso angeschaut, eines der schönesten Dörfer Japans (es hat tatsächlich diesen Titel). Die Holzbrücke hier ist mit knapp 250m die längste 
+Japans. Ansonsten ist der Herbst auch endlich angekommen 😍. Es ist wunderschön zu beobachten, wie sich die Blätter jeden Tag etwas mehr verfärben.
 
-There is not much to say, just have a look ;).  
-I looked at Nagiso, one of the most beautiful villages in Japan (it actually has this title). The wooden bridge here is with 250m the longest in Japan. Otherwise the autumn has finally arrived ;). It's wonderful to see how the leaves change colour a little more every day.
+There is not much to say, just have a look 😍.  
+I looked at Nagiso, one of the most beautiful villages in Japan (it actually has this title). The wooden bridge here is with 250m the longest in Japan. 
+Otherwise the autumn has finally arrived 😍. It's wonderful to see how the leaves change colour a little more every day.
 
 ![Beautiful Kiso River](./river_two.jpg)
 ![Kiso River](./river.jpg)
