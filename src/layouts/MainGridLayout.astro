@@ -1,21 +1,16 @@
 ---
-import Layout from "./Layout.astro";
-import Navbar from "@components/Navbar.astro";
-import SideBar from "@components/widget/SideBar.astro";
-import {pathsEqual} from "@utils/url-utils";
-import Footer from "@components/Footer.astro";
-import BackToTop from "@components/control/BackToTop.astro";
-import {siteConfig} from "@/config";
+import Footer from '@components/Footer.astro'
+import Navbar from '@components/Navbar.astro'
+import BackToTop from '@components/control/BackToTop.astro'
+import SideBar from '@components/widget/SideBar.astro'
+import Layout from './Layout.astro'
 
 interface Props {
-    title: string;
-    banner?: string;
+  title: string
+  banner?: string
 }
 
 const { title, banner } = Astro.props
-const isHomePage = pathsEqual(Astro.url.pathname, '/')
-const enableBanner = siteConfig.banner.enable
-
 ---
 
 <Layout title={title} banner={banner}>
@@ -31,7 +26,7 @@ const enableBanner = siteConfig.banner.enable
     <div id="content-wrapper" class="row-start-2 row-end-3 col-span-2 lg:col-span-1 overflow-hidden onload-animation">
         <!-- the overflow-hidden here prevent long text break the layout-->
         <main id="swup" class="transition-fade">
-            <slot></slot>
+            <slot/>
         </main>
 
     </div>

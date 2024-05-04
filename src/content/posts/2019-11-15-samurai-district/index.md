@@ -28,5 +28,3 @@ Was aber noch viel schöner ist, ist die Aufschrift auf einem Pfeiler daneben: "
 Und hier kommt noch ein kleines Rätsel: Was seht ihr auf dem foldenden Bild über der Ampel? Was bilden die Wolken? 😁
 
 ![Riddle image](./dove.jpg)
-
-Some random text
