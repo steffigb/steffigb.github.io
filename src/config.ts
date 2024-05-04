@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
+  title: 'Neue Pfade',
   subtitle: 'Demo Site',
   lang: 'en',
   themeHue: 250,
@@ -19,14 +19,14 @@ export const siteConfig: SiteConfig = {
 
 export const navBarConfig: NavBarConfig = {
   links: [
-    LinkPreset.Home,
+    // LinkPreset.Home,
     LinkPreset.Archive,
     LinkPreset.About,
-    {
+    /*  {
       name: 'GitHub',
       url: 'https://github.com/saicaca/fuwari',
       external: true,
-    },
+    }, */
   ],
 }
 
