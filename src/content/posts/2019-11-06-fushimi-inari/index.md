@@ -1,7 +1,7 @@
 ---
 title: Fushimi Inari Insider | 伏見稲荷インサイダー
 published: 2019-11-06
-description: "Add description"
+# description: "Add description"
 image: "./waterside.jpg"
 tags: ["Kyōto"]
 category: Japan 2019

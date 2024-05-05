@@ -1,7 +1,7 @@
 ---
 title: Hakone | 箱根町
 published: 2019-10-29
-description: "Add description"
+# description: "Add description"
 image: "./trees.jpg"
 tags: ["Hakone"]
 category: Japan 2019

@@ -1,7 +1,7 @@
 ---
 title: Nagiso - In eine andere Welt abtauchen | Nagiso - Forget the ouside world | 南木曽 - タイムアウトする
 published: 2019-11-02
-description: "Add description"
+# description: "Add description"
 image: "./bambus.jpg"
 tags: ["Nagiso"]
 category: Japan 2019

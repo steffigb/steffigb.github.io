@@ -1,7 +1,7 @@
 ---
 title: Lasst das Abenteuer beginnen! | Let the adventure begin! | 冒険を始めましょう！
 published: 2019-10-27
-description: "Add description"
+# description: "Add description"
 image: "./mottchen.jpg"
 tags: ["Kamakura"]
 category: Japan 2019

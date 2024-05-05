@@ -1,7 +1,7 @@
 ---
 title: Samurai in Naga­ma­chi Bukeyashiki | 長町武家屋敷
 published: 2019-11-15
-description: "Add new description"
+# description: "Add new description"
 image: "./sho_kyoto.jpg"
 tags: ["Kanazawa"]
 category: Japan 2019

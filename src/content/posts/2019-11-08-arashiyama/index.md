@@ -1,7 +1,7 @@
 ---
 title: Arashiyama Bambuswald | Arashiyama Bamboo Grove | 嵐山竹林
 published: 2019-11-08
-description: "Add description"
+# description: "Add description"
 image: "./garden.jpg"
 tags: ["Kyōto"]
 category: Japan 2019

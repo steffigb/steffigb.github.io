@@ -1,7 +1,7 @@
 ---
 title: Piratenschiffe und Seilbahnen | Pirate ships and cable cars | 海賊とケーブルカー
 published: 2019-11-01
-description: "Add description"
+# description: "Add description"
 image: "./food.jpg"
 tags: ["Hakone"]
 category: Japan 2019

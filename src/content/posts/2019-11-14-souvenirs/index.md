@@ -1,7 +1,7 @@
 ---
 title: Souvenir-Tag in Higa­shi-Cha­ya­gai | Souvenirs-day in Higa­shi-Cha­ya­gai | お土産の日
 published: 2019-11-14
-description: "Add description"
+# description: "Add description"
 image: "./leaves.jpg"
 tags: ["Kanazawa"]
 category: Japan 2019

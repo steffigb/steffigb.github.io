@@ -1,7 +1,7 @@
 ---
 title: Kamakura | 鎌倉市
 published: 2019-10-28
-description: "Add description"
+# description: "Add description"
 image: "./hashi.jpg"
 tags: ["Kamakura"]
 category: Japan 2019

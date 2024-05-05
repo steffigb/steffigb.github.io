@@ -1,7 +1,7 @@
 ---
 title: Nakasendō Magome - Tsumago| 中山道 馬籠 - 妻籠
 published: 2019-11-04
-description: "Add description"
+# description: "Add description"
 image: "./hostel.jpg"
 tags: ["Nakasendō", "Nagiso"]
 category: Japan 2019

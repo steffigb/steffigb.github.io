@@ -1,7 +1,7 @@
 ---
 title: Ein würdiger Abschied | A worthy farewell | まともな別れ
 published: 2019-11-16
-description: "Add description"
+# description: "Add description"
 image: "./beloved_fuji.jpg"
 tags: ["Tōkyō"]
 category: Japan 2019

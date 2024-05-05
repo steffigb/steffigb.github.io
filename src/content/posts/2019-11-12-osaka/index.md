@@ -1,7 +1,7 @@
 ---
 title: Ōsaka | 大阪
 published: 2019-11-12
-description: "Add description"
+# description: "Add description"
 image: "./welcome.jpg"
 tags: ["Ōsaka"]
 category: Japan 2019

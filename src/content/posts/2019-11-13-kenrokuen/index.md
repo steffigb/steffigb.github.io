@@ -1,7 +1,7 @@
 ---
 title: Kenroku-en | 兼六園
 published: 2019-11-13
-description: "Add description"
+# description: "Add description"
 image: "./kasumigaike.jpg"
 tags: ["Kanazawa"]
 category: Japan 2019

@@ -1,7 +1,7 @@
 ---
 title: Zurück nach Kamakura | Back to Kamakura | 鎌倉にもどる
 published: 2019-10-30
-description: "Add description"
+# description: "Add description"
 image: "./bambus.jpg"
 tags: ["Kamakura"]
 category: Japan 2019

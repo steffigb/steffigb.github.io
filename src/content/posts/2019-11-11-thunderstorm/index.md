@@ -1,7 +1,7 @@
 ---
 title: Gewitter | Thunderstorm | 雷雨
 published: 2019-11-11
-description: "Add description"
+# description: "Add description"
 image: "./art.jpg"
 tags: ["Kanazawa"]
 category: Japan 2019

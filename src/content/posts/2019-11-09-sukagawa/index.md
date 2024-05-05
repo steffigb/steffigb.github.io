@@ -1,7 +1,7 @@
 ---
 title: Sukagawa Taimatsu Akashi | 須賀川松明あかし
 published: 2019-11-09
-description: "Add description"
+# description: "Add description"
 image: "./tree.jpg"
 tags: ["Sakugawa"]
 category: Japan 2019
