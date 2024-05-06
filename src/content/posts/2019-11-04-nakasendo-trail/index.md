@@ -1,5 +1,5 @@
 ---
-title: Nakasendō Magome - Tsumago| 中山道 馬籠 - 妻籠
+title: Nakasendō Magome - Tsumago #| 中山道 馬籠 - 妻籠
 published: 2019-11-04
 # description: "Add description"
 image: "./hostel.jpg"

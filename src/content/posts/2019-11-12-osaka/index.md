@@ -1,5 +1,5 @@
 ---
-title: Ōsaka | 大阪
+title: Ōsaka #| 大阪
 published: 2019-11-12
 # description: "Add description"
 image: "./welcome.jpg"

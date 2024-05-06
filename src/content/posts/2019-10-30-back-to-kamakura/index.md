@@ -1,5 +1,5 @@
 ---
-title: Zurück nach Kamakura | Back to Kamakura | 鎌倉にもどる
+title: Zurück nach Kamakura | Back to Kamakura #| 鎌倉にもどる
 published: 2019-10-30
 # description: "Add description"
 image: "./bambus.jpg"
@@ -20,7 +20,7 @@ bamboo forest, because the way was suddenly closed (I was walking). Therefore I 
 the weather was great today, so I could have a look at the Fuji-san from the train - it is absolutely great (also huge 🙃) and beautiful 😍. 
 The sight was unexpected and my head, heart and stomach were tingling ^^.
 
-今日はいい天気でした。それで、鎌倉に行って報国寺を見に行きました。寺院は美しいです. 緑茶を飲みました。寺へ行く途中に富士山が見えました。
+<!-- 今日はいい天気でした。それで、鎌倉に行って報国寺を見に行きました。寺院は美しいです. 緑茶を飲みました。寺へ行く途中に富士山が見えました。 -->
 
 ![Hōkoku-ji Temple zen garden](./zen.jpg)
 
@@ -41,4 +41,4 @@ innen nicht mehr besichtigen konnte.
 On my way back to Hakone I visited <a href="https://odawaracastle.com/" target="_blank" rel="noopener noreferrer">Odawara Castle</a>. It was already 4:30 pm 
 when I arrived. Many places of interest close at 5:00 pm, Odawara Castle too. So I couldn't visit it from the inside. 
 
-オダワの城を見たかったのですが、すでに閉鎖されていました。
+<!-- オダワの城を見たかったのですが、すでに閉鎖されていました。 -->

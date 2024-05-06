@@ -1,5 +1,5 @@
 ---
-title: Sukagawa Taimatsu Akashi | 須賀川松明あかし
+title: Sukagawa Taimatsu Akashi #| 須賀川松明あかし
 published: 2019-11-09
 # description: "Add description"
 image: "./tree.jpg"

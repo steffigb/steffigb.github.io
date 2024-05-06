@@ -1,5 +1,5 @@
 ---
-title: Fushimi Inari Insider | 伏見稲荷インサイダー
+title: Fushimi Inari Insider #| 伏見稲荷インサイダー
 published: 2019-11-06
 # description: "Add description"
 image: "./waterside.jpg"

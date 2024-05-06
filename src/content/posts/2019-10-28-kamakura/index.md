@@ -1,5 +1,5 @@
 ---
-title: Kamakura | 鎌倉市
+title: Kamakura #| 鎌倉市
 published: 2019-10-28
 # description: "Add description"
 image: "./hashi.jpg"
@@ -15,7 +15,7 @@ Gelände des Tempels.
 
 First I visited a temple in Kamakura, whose name I don't know anymore. But it was very pretty :D. The picture above is from the extensive area of the temple. 
 
-最初に、鎌倉の寺院を訪れましたが、その名前はもう分かりません。きれいでした :D。上の写真は寺院の一部です。
+<!-- 最初に、鎌倉の寺院を訪れましたが、その名前はもう分かりません。きれいでした :D。上の写真は寺院の一部です。 -->
 
 ![Daibutsu](./daibutsusmall.jpg)
 
@@ -30,8 +30,8 @@ Especially interesting is that you can go into the Buddha for 200 yen; the statu
 Afterwards I visited the beautiful <a href="https://www.hasedera.jp/en/" target="_blank" rel="noopener noreferrer">Hase-Dera-Tempel</a>, 
 from which you have a great view over Kamakura. And finally, I spent some time at the beach.
 
-もちろん、高徳院の鎌倉の大仏も見ました。特に興味深いのは、200円で仏に入ることができるということです。彫像は中空です。理由がわかりませんでした。
-長谷寺を訪れました。海岸に行きました。
+<!-- もちろん、高徳院の鎌倉の大仏も見ました。特に興味深いのは、200円で仏に入ることができるということです。彫像は中空です。理由がわかりませんでした。
+長谷寺を訪れました。海岸に行きました。 -->
 
 ![Streets](./streets.jpg)
 
@@ -41,4 +41,4 @@ Viele Straßen in Kamakura sind sehr schmal. Es gibt meist keinen Bürgersteig, 
 Many roads in Kamakura are very narrow. There is usually no sidewalk as we know it. In addition, cyclists and pedestrians share the way. Often it is only as 
 wide as a person and only slightly marked. It seems pedestrians aren't very important :D.
 
-鎌倉の多くの道路は狭いです。歩道はありません。歩行者とサイクリストが道を共有します。道は人と同じくらい広いです。
+<!-- 鎌倉の多くの道路は狭いです。歩道はありません。歩行者とサイクリストが道を共有します。道は人と同じくらい広いです。 -->

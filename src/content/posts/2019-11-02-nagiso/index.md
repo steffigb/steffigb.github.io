@@ -1,5 +1,5 @@
 ---
-title: Nagiso - In eine andere Welt abtauchen | Nagiso - Forget the ouside world | 南木曽 - タイムアウトする
+title: Nagiso - In eine andere Welt abtauchen | Nagiso - Forget the ouside world #| 南木曽 - タイムアウトする
 published: 2019-11-02
 # description: "Add description"
 image: "./bambus.jpg"
@@ -32,7 +32,7 @@ In addition, the internet is very stubborn here and I'm glad if the text goes on
 next to the stove and read. You can also stare out the window for hours. Tomorrow you will understand why 😌.
 
 It's super relaxing to sit, read, watch and listen to people. Japanese is really such a wonderful language 💚.
-Although it probably already reads like an anime setting, the cute cats and the very sweet, cheerful daughter of the owner are added. She runs happily through the area and is very open towards all the people ;).
+Although it probably already reads like an anime setting, the cute cats and the very sweet, cheerful daughter of the owner are added. She runs happily through the area and is very open towards all the people.
 Yet another storybook scenario: One of the cats has sat down on the lap of a guest and can be stroked. Soon we have dinner and she does not want to get up :D. Here you can probably live a perfect cat life ^^.
 
 Maybe tomorrow I'll go for a walk and just keep reading.

@@ -1,5 +1,5 @@
 ---
-title: Der Herbst ist da | Autumn has arrived | 秋が来ました
+title: Der Herbst ist da | Autumn has arrived #| 秋が来ました
 published: 2019-11-03
 # description: "Add description"
 image: "./cover.jpg"

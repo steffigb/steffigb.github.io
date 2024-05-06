@@ -1,5 +1,5 @@
 ---
-title: Arashiyama Bambuswald | Arashiyama Bamboo Grove | 嵐山竹林
+title: Arashiyama Bambuswald | Arashiyama Bamboo Grove #| 嵐山竹林
 published: 2019-11-08
 # description: "Add description"
 image: "./garden.jpg"

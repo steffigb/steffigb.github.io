@@ -1,5 +1,5 @@
 ---
-title: In die Massen eintauchen | Diving into the masses | 大衆へのダイビング
+title: In die Massen eintauchen | Diving into the masses #| 大衆へのダイビング
 published: 2019-11-05
 # description: "Add description"
 image: "./kyoto.jpg"

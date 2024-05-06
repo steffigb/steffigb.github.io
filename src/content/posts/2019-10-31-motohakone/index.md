@@ -1,5 +1,5 @@
 ---
-title: Tōkaidō-Handelsstraße und Ashi-See | Tōkaidō road and lake Ashi | 東海道と芦ノ湖
+title: Tōkaidō-Handelsstraße und Ashi-See | Tōkaidō road and lake Ashi #| 東海道と芦ノ湖
 published: 2019-10-31
 # description: "Add description"
 image: "./shy_fuji.jpg"

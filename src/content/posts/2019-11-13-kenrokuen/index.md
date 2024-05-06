@@ -1,5 +1,5 @@
 ---
-title: Kenroku-en | 兼六園
+title: Kenroku-en #| 兼六園
 published: 2019-11-13
 # description: "Add description"
 image: "./kasumigaike.jpg"

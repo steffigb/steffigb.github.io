@@ -1,5 +1,6 @@
 ---
-title: Lasst das Abenteuer beginnen! | Let the adventure begin! | 冒険を始めましょう！
+
+title: Lasst das Abenteuer beginnen! | Let the adventure begin! #| 冒険を始めましょう！
 published: 2019-10-27
 # description: "Add description"
 image: "./mottchen.jpg"
@@ -23,8 +24,8 @@ I have investigated that it is also possible to come to Japan by bike :D.
 But then I would miss the view. The clouds from above, the stars and lights of the cities at night and the different landscapes by day - all beautiful!
 It was a bit crazy, because I dropped a lot of my stuff, but that's how I got into a conversation with the girl behind me :D.
 
-さいしょのフレイトはどうでしたか。少しクレイジーでつかれた、でも景色はきれいでした。コントロールには時間がかかりました。ひこうきからのながめはとてもよかったです。
-雲と星とふうけいがとてもきれいです。
+<!-- さいしょのフレイトはどうでしたか。少しクレイジーでつかれた、でも景色はきれいでした。コントロールには時間がかかりました。ひこうきからのながめはとてもよかったです。
+雲と星とふうけいがとてもきれいです。 -->
 
 
 ![Mottchen with suitcase and backpack](./mottchen.jpg)
@@ -35,7 +36,7 @@ aber auch schwer. Wobei mein Handgepäck auf dem Rückflug 25 kg wiegen darf :D.
 Actually I had planned to travel only with carry-on baggage, but unfortunately the maximum combined weight of suitcase and backpack is over 8 kg. With laptop 
 and camera it's hard to keep the maximum weight. The carry-on baggage may weigh 25 kg on the return flight :D. But how to carry it? 😮
 
-スーツケースとリュックサックのじゅうりょうは８kgいじょうです。手荷物には多すぎます。帰路の手荷物は25kgになります。むずかしいです。😮
+<!-- スーツケースとリュックサックのじゅうりょうは８kgいじょうです。手荷物には多すぎます。帰路の手荷物は25kgになります。むずかしいです。😮 -->
 
 ![Bedroom at Kamakura Guesthouse](./bedroom.jpg)
 
@@ -49,5 +50,5 @@ is a big Bob Marley fan and who accompanied me to the accommodation (I didn't ge
 The first two nights I slept in the women's dorm. Tatami, rice straw mats used in traditional Japanese rooms, are great 😊. And I also like futons, traditional 
 Japanese beds, very much! 
 
-ホステルに行ったとき、男にあいました。男はボブ・マーリーが好きです。私たちは一緒にホステルに行きました。面白かったです。
-さいしょの２ばんはじょせいのりょうでねました。畳と布団が好きです。
+<!-- ホステルに行ったとき、男にあいました。男はボブ・マーリーが好きです。私たちは一緒にホステルに行きました。面白かったです。
+さいしょの２ばんはじょせいのりょうでねました。畳と布団が好きです。 -->

@@ -1,5 +1,5 @@
 ---
-title: Gewitter | Thunderstorm | 雷雨
+title: Gewitter | Thunderstorm #| 雷雨
 published: 2019-11-11
 # description: "Add description"
 image: "./art.jpg"
