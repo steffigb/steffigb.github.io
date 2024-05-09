@@ -9,9 +9,9 @@ A static blog built with [Astro](https://astro.build). I used and adjusted the [
 - [x] Light / dark mode
 - [x] Customizable theme colors & banner
 - [x] Responsive design
-# - [ ] Comments
+<!-- # - [ ] Comments
 # - [ ] Search
-# - [ ] TOC
+# - [ ] TOC -->
 
 <!-- ## 🚀 How to Use
 
