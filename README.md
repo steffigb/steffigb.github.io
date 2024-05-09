@@ -1,10 +1,6 @@
-# 🍥Fuwari
+# 🍥 Neue Pfade
 
-A static blog template built with [Astro](https://astro.build).
-
-[**🖥️Live Demo (Vercel)**](https://fuwari.vercel.app)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[**🌏中文 README**](https://github.com/saicaca/fuwari/blob/main/README.zh-CN.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;[**📦Old Hexo Version**](https://github.com/saicaca/hexo-theme-vivia)
-
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+A static blog built with [Astro](https://astro.build). I used and adjusted the [**Fuwari**](https://github.com/saicaca/fuwari) template.
 
 ## ✨ Features
 
@@ -13,20 +9,20 @@ A static blog template built with [Astro](https://astro.build).
 - [x] Light / dark mode
 - [x] Customizable theme colors & banner
 - [x] Responsive design
-- [ ] Comments
-- [x] Search
-- [ ] TOC
+# - [ ] Comments
+# - [ ] Search
+# - [ ] TOC
 
-## 🚀 How to Use
+<!-- ## 🚀 How to Use
 
 1. [Generate a new repository](https://github.com/saicaca/fuwari/generate) from this template or fork this repository.
 2. To edit your blog locally, clone your repository, run `pnpm install` AND `pnpm add sharp` to install dependencies.  
    - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you haven't.
 3. Edit the config file `src/config.ts` to customize your blog.
 4. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
-5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/).
+5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/). -->
 
-## ⚙️ Frontmatter of Posts
+<!-- ## ⚙️ Frontmatter of Posts
 
 ```yaml
 ---
@@ -38,7 +34,7 @@ tags: [Foo, Bar]
 category: Front-end
 draft: false
 ---
-```
+``` -->
 
 ## 🧞 Commands
 
