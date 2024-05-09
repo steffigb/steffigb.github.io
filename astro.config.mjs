@@ -23,7 +23,7 @@ const oklchToHex = str => {
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://www.neue-pfa.de',
+  site: 'https://neue-pfa.de',
   integrations: [
     tailwind(),
     swup({
