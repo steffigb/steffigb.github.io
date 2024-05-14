@@ -5,7 +5,7 @@ published: 2024-05-11
 image: "./fuji-street.jpg"
 tags: ["Tōkyō", "Fujikawaguchiko"]
 category: Japan 2024
-draft: true
+draft: false
 ---
 
 Nachdem die Sachen gepackt, die Unterkünfte gebucht und Pläne geschmiedet waren, ging die Reise mittags am 10.05. von Berlin über Helsinki und nach Tōkyō Narita. Dieses Mal flogen wir nicht, wie vor 4,5 Jahren, über Russland, sondern nördlich um Russland drumherum, weswegen die meiste Zeit außer Sonnenlicht reflektierendes Weiß oder Wasser nicht viel zu sehen war und es auch keine richtige Nacht gab.
@@ -15,7 +15,7 @@ Nachdem die Sachen gepackt, die Unterkünfte gebucht und Pläne geschmiedet ware
 Der Flug von Helsinki war aufgrund der Wetterlage etwas verspätet; in Tōkyō Narita sind wir trotzdem pünktlich angekommen. Bis alles für die Weiterfahrt mit dem Bus nach Fujikawaguchiko geklärt war, war es schon später Nachmittag. Die Fahrt war aufgeteilt in zwei Abschnitte (Narita - Shinjuku,  Shinjuku - Fujikawaguchiko) und hat rund 4 Stunden gedauert. Vom Bus aus gab es direkt ein Wiedersehen mit einem guten, alten Freund. Der Fuji-san wirkte, als hätte er die ganzen Jahre geduldig gewartet und bei der ersten Gelegenheit fröhlich gegrüßt. ❤️
 
 Im Übrigen war die Busreise sehr angenehm; es war sehr ruhig und insgesamt ist der Transport mit öffentlichen Verkehrsmitteln sehr gut durchdacht und komfortabel.
-Von unserem Zimmer aus kan man mit Blick nach links auch den Fuji-san sehen :D. Und auch sonst ist der Ausblick super schön.
+Von unserem Zimmer aus kann man mit Blick nach links auch den Fuji-san sehen :D. Und auch sonst ist der Ausblick super schön.
 
 ![Fuji view from room](./fuji-from-room.jpg)
 
