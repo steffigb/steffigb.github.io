@@ -8,7 +8,7 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: 'Neue Pfade',
-  subtitle: 'Demo Site',
+  subtitle: 'Japan Travel Blog',
   lang: 'en',
   themeHue: 250,
   banner: {
