@@ -3,7 +3,7 @@ title: Gückliches Wiedersehen | Happy reunion
 published: 2024-05-11
 # description: "Add description"
 image: "./fuji-street.jpg"
-tags: ["Tōkyō", "Fujikawaguchiko"]
+tags: ["Fujikawaguchiko"]
 category: Japan 2024
 draft: false
 ---
