@@ -2,7 +2,7 @@
 title: Fujikawaguchiko
 published: 2024-05-12
 # description: "Add description"
-# image: "./beloved_fuji.jpg"
+image: "./fuji-crown.jpg"
 tags: ["Fujikawaguchiko"]
 category: Japan 2024
 draft: false
