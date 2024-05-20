@@ -2,7 +2,7 @@
 title: Ein paar ernste Worte | Serious talk
 published: 2024-05-15
 # description: "Add description"
-# image: "./widespread-fuji.jpg"
+image: "./fuji-in-frame.jpg"
 tags: ["Fujikawaguchiko"]
 category: Japan 2024
 draft: false
