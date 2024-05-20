@@ -2,7 +2,7 @@
 title: Fuji Shibazakura Festival
 published: 2024-05-16
 # description: "Add description"
-# image: "./widespread-fuji.jpg"
+image: "./mini-fuji.jpg"
 tags: ["Fujikawaguchiko", "Hakone"]
 category: Japan 2024
 draft: false
@@ -23,8 +23,6 @@ Den Fuji konnten wir leider nicht sehen. Nachdem wir unsere Busreise zurück nac
 ![Moss phlox fuji](./moss-phlox-fuji.jpg)
 
 ![Fuji blanket](./fuji-blanket.jpg)
-
-
 
 <!-- Ich hatte schon einmal kurz geschrieben dass ich dass das Bus- und Bahnsystem sehr organisiert ist. hier in Kawaguchiko war das auch wieder so. Es gibt verschiedene Routen um unterschiedliche Sehenswürdigkeiten zu besuchen, einen klar erklärten Plan und so wweiter... -->
 
