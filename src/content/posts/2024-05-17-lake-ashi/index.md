@@ -1,5 +1,5 @@
 ---
-title: Ashi-See Abenteuer | Lake Ashi adventures
+title: Ashi-See Abenteuer #| Lake Ashi adventures
 published: 2024-05-17
 # description: "Add description"
 image: "./fuji.jpg"

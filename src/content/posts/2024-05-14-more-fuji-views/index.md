@@ -1,5 +1,5 @@
 ---
-title: Sonnige Aussichten | Sunny Fuji views
+title: Sonnige Aussichten #| Sunny Fuji views
 published: 2024-05-14
 # description: "Add description"
 image: "./widespread-fuji.jpg"

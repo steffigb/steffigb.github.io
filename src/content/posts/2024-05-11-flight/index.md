@@ -1,5 +1,5 @@
 ---
-title: Gückliches Wiedersehen | Happy reunion
+title: Gückliches Wiedersehen #| Happy reunion
 published: 2024-05-11
 # description: "Add description"
 image: "./fuji-street.jpg"

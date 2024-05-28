@@ -1,5 +1,5 @@
 ---
-title: Furashiki
+title: Kurashiki
 published: 2024-05-21
 # description: "Add description"
 image: "./bikan-channel.jpg"

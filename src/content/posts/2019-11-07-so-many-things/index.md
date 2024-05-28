@@ -1,5 +1,5 @@
 ---
-title: Tempel, Schreine und Gärten | Temples, shrines and gardens #| お寺、神社、庭園
+title: Tempel, Schreine und Gärten #| Temples, shrines and gardens #| お寺、神社、庭園
 published: 2019-11-07
 # description: "Add description"
 image: "./heian.jpg"
