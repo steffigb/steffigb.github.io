@@ -1,5 +1,5 @@
 ---
-title: Reise nach Okayama | Travel to Okayama
+title: Reise nach Okayama #| Travel to Okayama
 published: 2024-05-18
 # description: "Add description"
 image: "./okayama-by-night.jpg"

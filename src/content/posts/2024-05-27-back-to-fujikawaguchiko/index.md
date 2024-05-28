@@ -1,6 +1,6 @@
 ---
 title: Zurück in Fujikawaguchiko
-published: 2024-05-25
+published: 2024-05-27
 # description: "Add description"
 image: "./fuji.jpg"
 tags: ["Fujikawaguchiko"]

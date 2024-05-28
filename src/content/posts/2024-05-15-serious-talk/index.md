@@ -1,5 +1,5 @@
 ---
-title: Ein paar ernste Worte | Serious talk
+title: Ein paar ernste Worte #| Serious talk
 published: 2024-05-15
 # description: "Add description"
 image: "./fuji-in-frame.jpg"
