@@ -13,7 +13,7 @@ nicht, aber kann man immer genau wissen, was neu ist? ^^
 Heute habe ich diese <a href="https://crafttabby.com/alternative-fushimi-inari-walking-tour" target="_blank" rel="noopener noreferrer">geführte Tour von 
 Craft Tabby </a> zum Fushimi Inari Schrein mitgemacht und es war außerordentlich interessant und wirklich spektakulär. Mehr Wissenswertes und Spannendes kann 
 man weder allein noch mit einer gewöhnlichen Tour erfahren.  
-Wir waren eine kleine Gruppe von 6 Leuten (inkl. Guide) und haben uns die meiste Zeit abseits der Touristenpfade aufgehalten. Wir konnten etliche Fragen 
+Wir waren eine kleine Gruppe von 6 Leuten (inklusive Guide) und haben uns die meiste Zeit abseits der Touristenpfade aufgehalten. Wir konnten etliche Fragen 
 stellen, haben das Zweimal-Klatschen-Zweimal-Verbeugen-Ritual kennengelernt, mit Bäumen geredet, heiliges Wasser getrunken, Überreste von buddistischen Tempeln
  und Schreinen gesehen, erfahren, wie Buddhismus und Shintoismus zunächst zusammengeführt, dann aus politischen Gründen wieder getrennt wurden und welchen 
  Einfluss der Fushimi Inari Schrein auf Nintendo hat, haben private Schreine besucht, uns einen Zen-Garten und verschiedene Pflanzen der Umgebung angeschaut, 
