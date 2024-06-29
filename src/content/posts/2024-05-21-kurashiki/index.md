@@ -10,10 +10,10 @@ draft: false
 
 Wir haben den Tag in Kurashiki verbracht, einer Händlerstadt aus der Edo-Zeit. Hier sind viele Häuser aus dieser Zeit noch erhalten, insbesondere Lagerhäuser und man kann sie in Bikan, im alten Händlerviertel, welches von Kanälen durchzogen wird, bestaunen. Die Kanäle werden von Trauerweiden gesäumt und in ihnen schwimmen Kois - es ist eine sehr idyllischer Stadtteil. 😌
 
-Wir haben hier ein veganes Restaurant gefunden, in dem wir Mittag gegessen hebn - das Essen war super gut. 😋
+Wir haben hier ein veganes Restaurant gefunden, in dem wir Mittag gegessen haben - das Essen war super gut. 😋
 
 Außerdem finden man in den alten Lagerhäusern viele Geschäfte, die regionale Handarbeiten anbieten, viele Cafés und viele Jeans-Läden.
-Kurashiki war ursprünglich ein Baumwollanbaugebiet mit Färbereien, Webereien und Nähindustrie; es ist ein international anerkannten Hersteller von hochwertigem Denim.
+Kurashiki war ursprünglich ein Baumwollanbaugebiet mit Färbereien, Webereien und Nähindustrie; die Stadt ist ein international anerkannter Hersteller von hochwertigem Denim.
 
 ![Bikan channel](./bikan-district.jpg)
 

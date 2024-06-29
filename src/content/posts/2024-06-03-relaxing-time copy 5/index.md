@@ -10,4 +10,4 @@ draft: true
 
 Auf den Fuji gewandert bis zur 5. Station von Owari (?); es war wunderschön; das Schönste, was ich je gesehen habe; danach noch ins colours cafe und von den netten Besitzern verabschiedet
 
-Auf der 5. Station war es super voll 
+Auf der 5. Station war es super voll

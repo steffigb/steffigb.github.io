@@ -13,7 +13,7 @@ Heute ging es für uns auf nach Okayama. Wir sind etwas spät aufgestanden und v
 ![Butterfly](./IMG20240518101700.jpg)
 ![Butterfly](./IMG20240518101624.jpg)
 
-Danach sind wir mit einem Shinkansen über Osaka nach Okayama gefahren. Im Zug hatten wir ein sehr nettes Gespräch mit einem älteren (80 Jahre) Japanischen Herrn. Er ist ein Lungenexperte und muss jedes Jahr einen Test machen, um sein Wissen und sein Können nachzuweisen und er hat sehr gut abgeschnitten. 😊 Es ist allerdings sein letzten Jahr in der Arbeit, da er nach 80 Jahren in Rente gehen muss. 
+Danach sind wir mit einem Shinkansen über Osaka nach Okayama gefahren. Im Zug hatten wir ein sehr nettes Gespräch mit einem älteren (80 Jahre) japanischen Herrn. Er ist ein Lungenexperte und muss jedes Jahr einen Test machen, um sein Wissen und sein Können nachzuweisen und er hat sehr gut abgeschnitten. 😊 Es ist allerdings sein letzten Jahr in der Arbeit, da er nach 80 Jahren in Rente gehen muss. 
 
 In Okayama haben wir ein Hotelzimmer, das sehr klein ist. Es hat 12$m^2$ und mit einem Bett der Größe 2,00x1,80m und einem Schreibtisch bleibt nicht mehr viel Platz.
 Allerdings gibt es hier Frühstück inklusive und abends zwischen 18 und 21 Uhr eine Cocktailbar umsonst. Man bekommt alle Zutaten zum Mixen eines Cocktails und kann dann so viel trinken wie man mag; auch alkoholfreie Cocktails sind möglich. 😊
