@@ -8,6 +8,6 @@ category: Japan 2024
 draft: true
 ---
 
-zum senba museum gefahren und auch das desaster museum angeschaut; danach noch einige Souvenirs von lokalen Künstlern gekauft 
+Lawson-Breakfast gefrühstückt, frühmorgens unsere Regenschirme geholt und sind zum Bahnhof gelaufen
 
-# und in Kawaguchiko zurück zum Lawson um Abendessen zu kaufen --> Regenschirme dann dort vergessen 
+zum nenba museum gefahren und auch das desaster museum angeschaut; danach noch einige Souvenirs von lokalen Künstlern gekauft, ca. 1:40 Uhr angekommen in nenba, dann museum und souvenirs; dann Mittag gegessen und mit dem Bus zurück gefahren; auf dem Rückweg haben wir dem Bus direkt vor unserem hostel gehalten

@@ -12,14 +12,14 @@ Vom Sturm gestern ist nicht viel übrig geblieben; heute morgen sind wir bei str
 
 ![Fuji](./fuji.jpg)
 
-Das ist wohlgemerkt die Ausicht von unserem Zimmer. 💚😬💚
+Das ist wohlgemerkt die Aussicht von unserem Zimmer. 💚😬💚
 
 Und das ist unser Zimmer:
 
 ![Room](./room.jpg)
 
-In dem Gebiet um den Fuji gibt es 5 Seen - Kawaguchiko (hier ist unsere Unterkunft), Saiko (das Freilichtmuseum Saiko Iyashi-no-Sato Nenba, das wir am 15.05.2024 besucht haben, liegt an dem See)Shojiko, Motosuko und Yamanakako. Yamanako haben wir uns heute angeschaut.
-Als wir ankamen, war es sehr bewölkt, aber die Wolken waren sehr schön anzusehen. Was nicht so schön war ist, dass neben dem See eine Straße entlang führt, auf der auch LKWs fahren und man dort nicht gut spazieren kann; meist gibt es keine richtigen Fußwege. Deswegen sind wir nur einen Teil um den See gelaufen und dann weiter mit dem Bus gefahren.
+In dem Gebiet um den Fuji gibt es 5 Seen - Kawaguchiko (hier ist unsere Unterkunft), Saiko (das Freilichtmuseum Saiko Iyashi-no-Sato Nenba, das wir am 15.05.2024 besucht haben, liegt an dem See), Shojiko, Motosuko und Yamanakako. Yamanako haben wir uns heute angeschaut.
+Als wir ankamen, war es sehr bewölkt, aber die Wolken waren sehr schön anzusehen. Was nicht so schön war ist, dass neben dem See eine Straße entlang führt, auf der auch LKWs fahren und man dort nicht gut spazieren kann; meist gibt es keine richtigen Fußwege. Deswegen sind wir nur zum Teil um den See gelaufen und dann weiter mit dem Bus gefahren.
 
 ![Street](./street.jpg)
 

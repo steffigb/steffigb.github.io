@@ -9,11 +9,11 @@ draft: false
 ---
 
 Uns wurde ein Ausflug nach Kōbe empfohlen, also sind wir heute dorthin gefahren. ^^
-Interessant war für uns die Akashi-Kaikyō-Brücke, eine Autobahn-Hängebrücke, die aufgrund einer Stützweite von 1991 m von 1998 bis zum Jahr 2022 die längste Hängebrücke der Welt war. 2022 wurde sie von der türkischen Çanakkale-1915-Brücke abgelöst und belegt nun nur noch den zweiten Platz.
+Interessant war für uns die Akashi-Kaikyō-Brücke, eine Autobahn-Hängebrücke, die aufgrund einer Stützweite von 1991 Metern von 1998 bis zum Jahr 2022 die längste Hängebrücke der Welt war. 2022 wurde sie von der türkischen Çanakkale-1915-Brücke abgelöst und belegt nun nur noch den zweiten Platz.
 
 ![Bridge from the right sight](./bridge-from-right.jpg)
 
-Die Konstruktion der Brücke ist tatsächlich sehr spannend und wird im Ausstellungszentrum auch sehr kurzweilig vermittelt. Interessant ist, dass die Brücke aus verschiedenen Ebenen besteht. Im oberen Bereich befindet sich die Autobahn mit 2×3 Fahrstreifen. Die Ebene darunter dieht der Wartung und der Evakuierung von Personen im Notfall. In die beiden Türme der Brücke wurden abgestimmte Schwingungstilger eingebaut, um Vibrationen während Erdbeben und Taifunen entgegenzuwirken.
+Die Konstruktion der Brücke ist tatsächlich sehr spannend und wird im Ausstellungszentrum auch sehr kurzweilig vermittelt. Interessant ist, dass die Brücke aus verschiedenen Ebenen besteht. Im oberen Bereich befindet sich die Autobahn mit 2 × 3 Fahrstreifen. Die Ebene darunter dieht der Wartung und der Evakuierung von Personen im Notfall. In die beiden Türme der Brücke wurden abgestimmte Schwingungstilger eingebaut, um Vibrationen während Erdbeben und Taifunen entgegenzuwirken.
 
 ![Different decks](./different-decks.jpg)
 

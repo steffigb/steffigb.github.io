@@ -22,10 +22,17 @@ Als wir am See ankamen, war es noch immer etwas wolkig, was aber dem wunderhübs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BG8buuGLn5A?si=-B1cW4VksvPZQOsl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Durch Eruptionen des Fuji sind mehrere Lava-Höhlen entstanden; auf einer Informationstafel war die Rede von rund 80 Höhlen um den Fuji herum. Wir haben zwei besucht - die Wind-Höhle und eine Eis-Höhle. Man geht einige Meter tief in die Erde; die Temperatur in der Höhlen ist um die 0°C und Wasser tropft von den Decken. Da es so kalt ist, bilden sich auch Eisblöcke. Die Höhlen waren früher natürliche Kühlschränke zur Lagerung von z.B. Baumsamen.
+Durch Eruptionen des Fuji sind mehrere Lava-Höhlen entstanden; auf einer Informationstafel war die Rede von rund 80 Höhlen um den Fuji herum. Wir haben zwei besucht - die Wind-Höhle und eine Eis-Höhle. Man geht einige Meter tief in die Erde; die Temperatur in der Höhlen ist um die 0°C und Wasser tropft von den Decken. Da es so kalt ist, bilden sich auch Eisblöcke. Die Höhlen waren früher natürliche Kühlschränke zur Lagerung von z.B. Baumsamen und Seidenraupeneier.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tkL3ZwAYyIE?si=J4POjy7tTAY3Bg_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Es war auf jeden Fall ein spannender und erfrischender Abstieg in das "Höllenloch". ^^
-
+Es war auf jeden Fall ein spannender und erfrischender Abstieg in das "Höllenloch". ^^ Auch super interessant, wie 
+![Hole](./hole.jpg)
 ![Hell hole](./hell-hole.jpg)
+
+Am Abend gab es dann noch Sashimi (roher Fisch, super lecker) und Udon mit Gemüse. 😋
+
+![Sashimi](./sashimi.jpg)
+
+# Wir konnten das Busticket nicht im Bus kaufen; Busfahrer wollte, dass wir es in der Station kaufen (2-Day-Ticket)
+# Sashimi und Vegetable Udon am Abend gegessen in dem netten Restaurant mit hübschen Fuji Blick

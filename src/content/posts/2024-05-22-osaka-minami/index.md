@@ -14,7 +14,7 @@ Der Namba-Walk ist ein beliebtes unterirdisches und über 715 m langes Einkaufsz
 
 Shinsaibashi ist ein ca. 600 m langes Einkaufszentrum mit hochwertigen Geschäften. Es verbindet (hochpreisigere) Einzelhandelsketten, trendige Boutiquen, teure Kaufhäuser und Top-Designer-Modemarken.
 
-Eines der beliebtesten Touristenziele Ōsakas ist Dotonbori, da es ein buntes und belebtes Einkaufs- und Unterhaltungsviertel und für sein Street-Food bekannt ist. Nachts wird es von Hunderten von Neon- bzw. LED-Lichtern und mechanischen Schildern beleuchtet, darunter dem berühmten Glico-Laufmann (Glico running man), eines der bekanntesten Wahrzeichen Ōsaka. Das Schild stammt aus dem Jahr 1935 und leuchtet nun seit mehr als 80 Jahren über dem Dotombori-Kanal. Der laufende Mann wirbt für Glico, den Hersteller eines der bekanntesten Süßwarenunternehmen Asiens. Glicos vermarktet z.B. "Pocky", die mit Schokolade oder anderen Süßwaren überzogenen Brezelstangen, die in Japan und im Ausland sehr beliebt sind.
+Eines der beliebtesten Touristenziele Ōsakas ist Dotonbori, da es ein buntes und belebtes Einkaufs- und Unterhaltungsviertel und für sein Street-Food bekannt ist. Nachts wird es von Hunderten von Neon- bzw. LED-Lichtern und mechanischen Schildern beleuchtet, darunter dem berühmten Glico-Laufmann (Glico running man), eines der bekanntesten Wahrzeichen Ōsakas. Das Schild stammt aus dem Jahr 1935 und leuchtet seit mehr als 80 Jahren über dem Dotonbori-Kanal. Der laufende Mann wirbt für Glico, den Hersteller eines der bekanntesten Süßwarenunternehmen Asiens. Glico vermarktet z.B. "Pocky", die mit Schokolade oder anderen Süßwaren überzogenen Gebäckstangen. In Deutschland werden sie übrigens unter der wahrscheinlich beim Leser bekannten Marke "Mikado" vetrieben; Glico als Hertseller wird auf der Verpackung auch genannt.
 
 In meinem Post 2019 sind Shinsaibashi und Dotonbori schon einmal vorgekommen.
 Es war wieder sehr viel los, aber die Beleuchtung bei Nacht ist auch einfach wirklich schön. 😍 
@@ -31,6 +31,6 @@ Es war wieder sehr viel los, aber die Beleuchtung bei Nacht ist auch einfach wir
 
 ![Street by night](./street-by-night.jpg)
 
-Auch beliebt sind die 10-Yen-Münzen aus Waffelteig gefüllt mit Käse oder Pudding. Wir haben beide probiert und sie sind sehr gut ^^.
+Auch beliebt sind die 10-Yen-Münzen aus Waffelteig gefüllt mit Käse oder Pudding. Wir haben beide probiert als sehr gut befunden ^^.
 
 ![Eatable 10 Yen coin](./10-yen.jpg)
