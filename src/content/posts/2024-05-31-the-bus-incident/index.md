@@ -5,7 +5,7 @@ published: 2024-05-31
 # image: "./fuji.jpg"
 tags: ["Fujikawaguchiko", "Saiko"]
 category: Japan 2024
-draft: true
+draft: false
 ---
 
 Ursprünglich war unser Plan für heute, noch einmal zum Freilichtmuseum Iyashi no Sato am Saiko zu fahren, weil wir beim letzten Mal erst spät dort ankamen und deswegen viele der Häuser nicht besuchen konnten. Aber es kam anders als gedacht. 😆 Wir haben den Bus verpasst. 😑 Das war aber auch komplett gerechtfertigt. 
