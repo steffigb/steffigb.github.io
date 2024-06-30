@@ -2,7 +2,7 @@
 title: Auszeit
 published: 2024-05-28
 # description: "Add description"
-# image: "./fuji.jpg"
+image: "./fuji.jpg"
 tags: ["Fujikawaguchiko"]
 category: Japan 2024
 draft: false
