@@ -36,3 +36,4 @@ Am Abend gab es dann noch Sashimi (roher Fisch, super lecker) und Udon mit Gemü
 
 # Wir konnten das Busticket nicht im Bus kaufen; Busfahrer wollte, dass wir es in der Station kaufen (2-Day-Ticket)
 # Sashimi und Vegetable Udon am Abend gegessen in dem netten Restaurant mit hübschen Fuji Blick
+# Am Shojiko wollte Akif gerne noch wandern, allerdings waaren wir für die Wanderroute nicht ausgerüstet; Akifs Schuhe waren nicht wandertauglich; es war ein relativ steiler Aufstieg und der Boden/die Erde war nicht so fest
