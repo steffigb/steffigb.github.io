@@ -25,12 +25,12 @@ Später sind wir mit der Bahn zur Fuji Station gefahren und waren bei der Touris
 In einem kleinen Café haben wir Mittag gegessen und Kaffee getrunken. Es war sehr gemütlich und gehört einem älteren Ehepaar. Der Mann bereitet die Getränke zu; für den Kaffee mahlt er die Bohnen mit einer Handmühle und filtert ihn mit einem alten Keramikfilter. Also läuft sehr bedächtig und ruhig ab und ist sehr entspannend. Eingerichtet ist das Café wie ein Wohnzimmer, mit einer Menge Erinnerungsstücke vergangener Reisen der Besitzer; es verbreitet eine sehr behagliche Atmosphäre.
 
 Danach sind wir zum Elektronikladen Nojima gegangen und haben uns alle möglichen Elektronikgeräte angeschaut.
-# : Rechner, Waschmaschinen, Reiskocher, Ventilatoren; das war super spannend. 
+<!-- # : Rechner, Waschmaschinen, Reiskocher, Ventilatoren; das war super spannend.  -->
 Es gab Computer, die gerade mal 800 g wiegen, aber trotzdem solide wirken, Waschmaschinen, die meistens Toplader sind (ich habe noch nie so viele unterschiedlichen Modelle in einem Elektronikgeschäft gesehen; dasselbe gilt für Kühlschränke), alle möglichen Größen und Formen von Ventilatoren (bspw. Standventilatoren, Handventilatoren, Ventilatoren, die man sich um den Hals hängt), Reiskocher mit verschiedenen Einstellungsmöglichkeiten, Eismaschinen...es war super spannend und interessant.
 
 Neben dem Fuji Bahnhof gibt es ein Einkaufszentrum, in dem wir uns dann noch eine Zeit lang aufgehalten und uns japanische Waren angeschaut haben. Zum Hostel sind wir erst spät zurück gekommen, weswegen wir kein Frühstück mehr bestellen konnten. Daher sind wir zum Lawsen und haben dann gegessen.
 
-# weil bspw. die Waschmaschinen meist Toplader
+<!-- # weil bspw. die Waschmaschinen meist Toplader
 # und dann in dem netten Kaffee, von dem Akif immer erzählt hat; danach dann noch beim Elektronikladen und dann noch in dem Einkaufsladen (Supermakt, Einkaufspassage an der Station); 
 # Nojima Electronic Store - Washing machine, Muji some cotton cloth sind zu spät ins Hostel gekommen, deswegen sind wir zu Lawson und haben dort unsere Regenschirme vergessen und Frühstück gekauft
-# es hat geregnet und wir sind dann am Abend einfach zum Lawson und haben unsere Regenschirma dort vergessen
+# es hat geregnet und wir sind dann am Abend einfach zum Lawson und haben unsere Regenschirma dort vergessen -->
