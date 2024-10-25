@@ -23,7 +23,7 @@ Hier gibt es ein Video, in dem die Herstellung gezeigt wird. Es lohnt sich ausge
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TxvOMHoLRBY?si=59jQjn9FBXbsolCN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Mokuzougan ist das "Einlegen" unterschiedlicher Hölzer in und Kombinieren zu Gemälden, Landschaften, Figuren, etc.
+Mokuzougan ist das "Einlegen" von Holzteilen unterschiedlicher natürlicher Farben und Texturen in Gemälde, Landschaften, Figuren, etc.
 
 Für Mokuzougan gibt es hier ein super interessantes Video. Man muss den Text nicht lesen können; ich empfehle das Einschalten des Untertitels. 😊
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xvvIg9LJul8?si=AKcJRYbrbOvwQUJ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
