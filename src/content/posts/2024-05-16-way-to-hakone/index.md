@@ -3,7 +3,7 @@ title: Fuji Shibazakura Festival
 published: 2024-05-16
 # description: "Add description"
 image: "./mini-fuji.jpg"
-tags: ["Fujikawaguchiko", "Hakone"]
+tags: ["Fujikawaguchiko"]
 category: Japan 2024
 draft: false
 ---
