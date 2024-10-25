@@ -12,4 +12,6 @@ Im Digitalen Museum in Tokio gewesen (Digital Art Museum)
 
 Wir haben Bilder gemalt, die dann auch im digitalen Meer aufgetaucht sind ^^
 
-Danach waren wir noch im Ueno Park und haben die Blumen bewundert und sind dann zum Flughafen gefahren und in ins Flugzeug gestiegen
+Danach waren wir noch im Ueno Park und haben die Blumen bewundert und sind dann zum Flughafen gefahren und in ins Flugzeug gestiegen.
+
+Nach dem Flug haben wir ein Northern Rout Diploma bekommen :D

@@ -8,5 +8,9 @@ category: Japan 2024
 draft: true
 ---
 
-Heute war ein sehr ruhiger und entspannter Tag. Ich habe viel Zeit mit Schreiben im Zimmer verbracht und konnte beobachten, wie die Wolken um den Fuji zogen und er sich manchmal ein wenig gezeigt hat. Es hat den ganzen Tag geregnet und es war sehr stürmisch. Es ist sogar ein Taifun für die nächsten Tage angekündigt. 😳 Er soll nach aktuellen Infos allerdings nicht das Festland treffen, also hoffen wir das Beste. 
-Und hoffentlich wird das Wetter insgesamt besser die nächsten Tage, wir haben viel geplant. 😁 
+Auf dem Flug von Helsinki nach Deutschland haben wir Rei kennengelernt und uns mit ihr unterhalten
+
+Learnings der Reise:
+- Dinge, die man kaufen möchte, sollte man nicht auf später verschieben; häufig findet man besonders spezifische Dinge nicht so einfach über all, sondern nur in bestimmten Regionen
+- Japans Natur ist atemberaubend, unendlich viele Grünschattierungen in einem Bild
+- Touristenhotspots dringend vermeiden
