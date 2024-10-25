@@ -1,18 +1,19 @@
 ---
-title: Auszeit
+title: Dringende Angelegenheiten
 published: 2024-06-02
 # description: "Add description"
 image: "./fuji.jpg"
 tags: ["Fujikawaguchiko", "Hakone"]
 category: Japan 2024
-draft: true
+draft: false
 ---
 
-Heute haben wir wieder ein tolles Frühstück bekommen - Onigiri mit Miso-Suppe, Ei und grünem Tee. 😍
+<!-- Heute haben wir wieder ein tolles Frühstück bekommen - Onigiri mit Miso-Suppe, Ei und grünem Tee. 😍
 
-![Japanese breakfast](./breakfast.jpg)
+![Japanese breakfast](./breakfast.jpg) -->
 
-Es hat den ganzen Tag geregnet, was aber nicht schlimm war; wir hatten ohnehin einen Ausflug nach Hakone geplant. Zu Anfang unserer Reise waren mir in unserem Hostel dort wunderschöne Bilder (selbstverständlich mit Fuji-Motiv 😊) aufgefallen, die aus Holz verschiedener Holzarten gearbeitet waren. Damals hatten wir noch gedacht "Die Bilder können wir auch zu einem späteren Zeitpunkt unserer Reise kaufen, die gibt's sicher überall". Pustekuchen, nirgendwo sonst gibt es die zu kaufen. 😬
+Es hat den ganzen Tag geregnet, was aber nicht schlimm war; wir hatten ohnehin einen Ausflug nach Hakone geplant.
+Zu Anfang unserer Reise waren mir in unserem Hostel dort wunderschöne Bilder (selbstverständlich mit Fuji-Motiv 😊) aufgefallen, die aus Holz verschiedener Holzarten gearbeitet waren. Damals hatten wir noch gedacht "Die Bilder können wir auch zu einem späteren Zeitpunkt unserer Reise kaufen, die gibt's sicher überall". Pustekuchen, nirgendwo sonst gibt es die zu kaufen. 😬
 
 Wir sind also früh aufgestanden und mit Bus und Bahn ca. 4 Sunden nach Hakone gefahren. Es hat sich komplett gelohnt, wir haben bekommen, was wir wollten und viel gelernt. ^^
 
