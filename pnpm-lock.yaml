@@ -39,8 +39,8 @@ dependencies:
     specifier: ^4.0.0
     version: 4.0.0
   node:
-    specifier: ^24.4.0
-    version: 24.4.0
+    specifier: ^24.4.1
+    version: 24.4.1
   overlayscrollbars:
     specifier: ^2.6.1
     version: 2.11.4
@@ -1575,8 +1575,8 @@ packages:
     resolution: {integrity: sha512-fXVXEyFA5Yv3M3n8sUGT7+fvecGrZP4k6FnWWMSZVQf69kAq0LLpaBQLGcPR30m3zMmKYhECP4k/ZkzvhEW5kw==}
     dev: false
 
-  /@emnapi/runtime@1.4.4:
-    resolution: {integrity: sha512-hHyapA4A3gPaDCNfiqyZUStTMqIkKRshqPIuDOXv1hcBnD4U3l8cP0T1HMCfGRxQ6V64TGCcoswChANyOAwbQg==}
+  /@emnapi/runtime@1.4.5:
+    resolution: {integrity: sha512-++LApOtY0pEEz1zrd9vy1/zXVaVJJ/EbAF3u0fXIzPJEDtnITsBGbbK0EkM72amhl/R5b+5xx0Y/QhcVOpuulg==}
     requiresBuild: true
     dependencies:
       tslib: 2.8.1
@@ -2188,7 +2188,7 @@ packages:
     cpu: [wasm32]
     requiresBuild: true
     dependencies:
-      '@emnapi/runtime': 1.4.4
+      '@emnapi/runtime': 1.4.5
     dev: false
     optional: true
 
@@ -2198,7 +2198,7 @@ packages:
     cpu: [wasm32]
     requiresBuild: true
     dependencies:
-      '@emnapi/runtime': 1.4.4
+      '@emnapi/runtime': 1.4.5
     dev: false
     optional: true
 
@@ -6480,8 +6480,8 @@ packages:
     resolution: {integrity: sha512-xxOWJsBKtzAq7DY0J+DTzuz58K8e7sJbdgwkbMWQe8UYB6ekmsQ45q0M/tJDsGaZmbC+l7n57UV8Hl5tHxO9uw==}
     dev: false
 
-  /node@24.4.0:
-    resolution: {integrity: sha512-IPMGt3XUfM12saFz9D3cFx9T7d8rvx8sIf/v2K3Jwgjrp8LyzO7bIrHZDR6XpiNRHX3hKvI7KzXti8zKRyr7Jg==}
+  /node@24.4.1:
+    resolution: {integrity: sha512-eZUIQoPZCfafjNLDPAan04nDcZ3KmiQlK6sXtoAD/pxZbc2u/lSi+Dob71b/ScfwcmWHGEOf5h8fi/mHsx0+VQ==}
     engines: {npm: '>=5.0.0'}
     hasBin: true
     requiresBuild: true
