@@ -92,8 +92,8 @@ devDependencies:
     specifier: ^1.1.20
     version: 1.2.3
   '@iconify-json/material-symbols':
-    specifier: ^1.2.29
-    version: 1.2.29
+    specifier: ^1.2.30
+    version: 1.2.30
   '@rollup/plugin-yaml':
     specifier: ^4.1.2
     version: 4.1.2(rollup@2.79.2)
@@ -1816,8 +1816,8 @@ packages:
       '@iconify/types': 2.0.0
     dev: true
 
-  /@iconify-json/material-symbols@1.2.29:
-    resolution: {integrity: sha512-UUSrsl0gHF0GjAB9eZOpXrj7/v55ayMzo3QnMwUqP/FSfSkITKLR7CsBmUIFS8eEj8eRTfBNWA1yiIJR6UOdWg==}
+  /@iconify-json/material-symbols@1.2.30:
+    resolution: {integrity: sha512-3dA1jxkCd8LqEaAWjwQ5tob4pJNKE59Bz604AL1GP3Kyv//pR3un3cIyAUWOFQS1lz0vKKkn0BKOCmcUDi1G8A==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true
