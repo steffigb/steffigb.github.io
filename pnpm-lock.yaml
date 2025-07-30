@@ -86,8 +86,8 @@ devDependencies:
     specifier: ^1.1.18
     version: 1.2.5
   '@iconify-json/fa6-regular':
-    specifier: ^1.1.18
-    version: 1.2.3
+    specifier: ^1.2.4
+    version: 1.2.4
   '@iconify-json/fa6-solid':
     specifier: ^1.1.20
     version: 1.2.3
@@ -1804,8 +1804,8 @@ packages:
       '@iconify/types': 2.0.0
     dev: true
 
-  /@iconify-json/fa6-regular@1.2.3:
-    resolution: {integrity: sha512-NGV2j5mn4j49mpP7MABCljp1WPWKjwgfjN6NGwsmlFuQ7bdnz36nZB/5aRXLOcT36NXaBeCoT05G9aatdtMr3A==}
+  /@iconify-json/fa6-regular@1.2.4:
+    resolution: {integrity: sha512-fnUS/MLj3ZAp29oRsC8/aY8Wau7NIg7VesTz3jCcE6VJBzcz95Yxp/Dl5yHvkP+aQxrNw5Lj3nrOXB4nQh+oNA==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true
