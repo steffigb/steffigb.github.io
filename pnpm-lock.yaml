@@ -89,8 +89,8 @@ devDependencies:
     specifier: ^1.2.4
     version: 1.2.4
   '@iconify-json/fa6-solid':
-    specifier: ^1.1.20
-    version: 1.2.3
+    specifier: ^1.2.4
+    version: 1.2.4
   '@iconify-json/material-symbols':
     specifier: ^1.2.30
     version: 1.2.30
@@ -1810,8 +1810,8 @@ packages:
       '@iconify/types': 2.0.0
     dev: true
 
-  /@iconify-json/fa6-solid@1.2.3:
-    resolution: {integrity: sha512-C5o8YJF+ekrS4wRb/6/0SE2KjRyJlCg++IOVC/fineiRinITivsmzFRNW1MQX2xfDZ1T7bxeKxLN6lcaTG3jGA==}
+  /@iconify-json/fa6-solid@1.2.4:
+    resolution: {integrity: sha512-LmDNNdJVyvF5mPm1yxWvL8KjCc/E8LzoqnF1LNTVpyY2ZJRUlGOWuPIThdbuFBF2IovgttkIyumhyqfmlHdwKg==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: true
