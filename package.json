@@ -21,7 +21,7 @@
     "@astrojs/tailwind": "^6.0.2",
     "@fontsource-variable/jetbrains-mono": "^5.2.8",
     "@fontsource/roboto": "^5.2.8",
-    "@swup/astro": "^1.7.0",
+    "@swup/astro": "^1.8.0",
     "astro": "^5.14.3",
     "astro-compress": "^2.2.15",
     "astro-icon": "1.1.5",
